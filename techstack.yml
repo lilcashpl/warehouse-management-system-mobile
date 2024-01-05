@@ -1,7 +1,8 @@
 repo_name: lilcashpl/warehouse-management-system-mobile
 report_id: 309385ed0d16ba5ce92200889223dd88
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-01T13:32:18+00:00'
+timestamp: '2024-01-05T08:31:53+00:00'
 requested_by: michaelis2101
 provider: github
 branch: develop
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/lilcashpl/warehouse-management-system-mobile
   detection_source: Repo Metadata
 - name: C++
   description: Has imperative, object-oriented and generic programming features, while
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/lilcashpl/warehouse-management-system-mobile
   detection_source: Repo Metadata
 - name: Dart
   description: A new web programming language with libraries, a virtual machine, and
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1646/Twitter-02.png
+  detection_source_url: https://github.com/lilcashpl/warehouse-management-system-mobile
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -45,6 +49,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/pubspec.yaml
   detection_source: pubspec.yaml
   last_updated_by: michaelis2101
   last_updated_on: 2023-11-06 07:19:04.000000000 Z
@@ -56,6 +61,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/lilcashpl/warehouse-management-system-mobile
   detection_source: Repo Metadata
 - name: Objective-C
   description: The primary programming language you use when writing software for
@@ -66,6 +72,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source_url: https://github.com/lilcashpl/warehouse-management-system-mobile
   detection_source: Repo Metadata
 - name: Swift
   description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
@@ -76,6 +83,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/lilcashpl/warehouse-management-system-mobile
   detection_source: Repo Metadata
 - name: Android SDK
   description: An SDK that provides you the API libraries and developer tools necessary
@@ -87,7 +95,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
-  detection_source_url: github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/android/app/build.gradle
+  detection_source_url: https://github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/android/app/build.gradle
   detection_source: android/app/build.gradle
   last_updated_by: michaelis2101
   last_updated_on: 2023-11-06 07:19:04.000000000 Z
@@ -100,6 +108,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Cross-Platform Mobile Development
   image_url: https://img.stackshare.io/service/7180/flutter-mark-square-100.png
+  detection_source_url: https://github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/pubspec.yaml
   detection_source: pubspec.yaml
   last_updated_by: michaelis2101
   last_updated_on: 2023-11-18 06:10:55.000000000 Z
@@ -111,6 +120,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg
+  detection_source_url: https://github.com/lilcashpl/warehouse-management-system-mobile
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -120,6 +130,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/lilcashpl/warehouse-management-system-mobile
   detection_source: Repo Metadata
 - name: Gradle
   description: A powerful build system for the JVM
@@ -130,6 +141,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/android/app/build.gradle
   detection_source: android/app/build.gradle
   last_updated_by: michaelis2101
   last_updated_on: 2023-11-06 07:19:04.000000000 Z
@@ -141,6 +153,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/pubspec.yaml
   detection_source: pubspec.yaml
   last_updated_by: michaelis2101
   last_updated_on: 2023-11-06 07:19:04.000000000 Z
@@ -153,7 +166,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
-  detection_source_url: github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/android/app/build.gradle
+  detection_source_url: https://github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/android/app/build.gradle
   detection_source: android/app/build.gradle
   last_updated_by: michaelis2101
   last_updated_on: 2023-11-06 07:19:04.000000000 Z
@@ -163,6 +176,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/web/index.html
   detection_source: web/index.html
   last_updated_by: michaelis2101
   last_updated_on: 2023-11-06 07:19:04.000000000 Z
@@ -175,7 +189,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/pubspec.lock
+  detection_source_url: https://github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/pubspec.lock
   detection_source: pubspec.yaml
   last_updated_by: michaelis2101
   last_updated_on: 2023-11-09 03:53:03.000000000 Z
@@ -188,7 +202,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/pubspec.lock
+  detection_source_url: https://github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/pubspec.lock
   detection_source: pubspec.yaml
   last_updated_by: michaelis2101
   last_updated_on: 2023-11-12 07:02:46.000000000 Z
@@ -201,7 +215,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/pubspec.lock
+  detection_source_url: https://github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/pubspec.lock
   detection_source: pubspec.yaml
   last_updated_by: michaelis2101
   last_updated_on: 2023-11-09 03:53:03.000000000 Z
@@ -214,7 +228,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/pubspec.lock
+  detection_source_url: https://github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/pubspec.lock
   detection_source: pubspec.yaml
   last_updated_by: michaelis2101
   last_updated_on: 2023-11-22 09:31:26.000000000 Z
@@ -227,7 +241,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/pubspec.lock
+  detection_source_url: https://github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/pubspec.lock
   detection_source: pubspec.yaml
   last_updated_by: michaelis2101
   last_updated_on: 2023-11-06 07:19:04.000000000 Z
@@ -244,7 +258,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/pubspec.lock
+  detection_source_url: https://github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/pubspec.lock
   detection_source: pubspec.yaml
   last_updated_by: michaelis2101
   last_updated_on: 2023-11-06 07:19:04.000000000 Z
@@ -257,7 +271,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/pubspec.lock
+  detection_source_url: https://github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/pubspec.lock
   detection_source: pubspec.yaml
   last_updated_by: michaelis2101
   last_updated_on: 2023-11-22 09:31:26.000000000 Z
@@ -270,7 +284,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/pubspec.lock
+  detection_source_url: https://github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/pubspec.lock
   detection_source: pubspec.yaml
   last_updated_by: michaelis2101
   last_updated_on: 2023-11-22 09:31:26.000000000 Z
@@ -283,7 +297,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/pubspec.lock
+  detection_source_url: https://github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/pubspec.lock
   detection_source: pubspec.yaml
   last_updated_by: michaelis2101
   last_updated_on: 2023-11-18 06:10:55.000000000 Z
@@ -296,7 +310,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/pubspec.lock
+  detection_source_url: https://github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/pubspec.lock
   detection_source: pubspec.yaml
   last_updated_by: michaelis2101
   last_updated_on: 2023-11-18 06:10:55.000000000 Z
@@ -309,7 +323,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/pubspec.lock
+  detection_source_url: https://github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/pubspec.lock
   detection_source: pubspec.yaml
   last_updated_by: michaelis2101
   last_updated_on: 2023-11-09 03:53:03.000000000 Z
@@ -322,7 +336,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/pubspec.lock
+  detection_source_url: https://github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/pubspec.lock
   detection_source: pubspec.yaml
   last_updated_by: michaelis2101
   last_updated_on: 2023-11-18 06:10:55.000000000 Z
@@ -335,7 +349,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/pubspec.lock
+  detection_source_url: https://github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/pubspec.lock
   detection_source: pubspec.yaml
   last_updated_by: michaelis2101
   last_updated_on: 2023-11-15 04:53:24.000000000 Z
@@ -348,7 +362,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/pubspec.lock
+  detection_source_url: https://github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/pubspec.lock
   detection_source: pubspec.yaml
   last_updated_by: ichayr
   last_updated_on: 2023-11-09 04:46:40.000000000 Z
@@ -361,7 +375,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/pubspec.lock
+  detection_source_url: https://github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/pubspec.lock
   detection_source: pubspec.yaml
   last_updated_by: michaelis2101
   last_updated_on: 2023-11-09 03:53:03.000000000 Z
@@ -374,7 +388,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/pubspec.lock
+  detection_source_url: https://github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/pubspec.lock
   detection_source: pubspec.yaml
   last_updated_by: michaelis2101
   last_updated_on: 2023-11-10 04:37:27.000000000 Z
@@ -388,7 +402,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/pubspec.lock
+  detection_source_url: https://github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/pubspec.lock
   detection_source: pubspec.yaml
   last_updated_by: michaelis2101
   last_updated_on: 2023-11-09 03:53:03.000000000 Z
@@ -401,7 +415,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/pubspec.lock
+  detection_source_url: https://github.com/lilcashpl/warehouse-management-system-mobile/blob/develop/pubspec.lock
   detection_source: pubspec.yaml
   last_updated_by: michaelis2101
   last_updated_on: 2023-11-22 09:31:26.000000000 Z
